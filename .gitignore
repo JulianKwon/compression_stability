@@ -146,3 +146,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+!/save_/
+!/runs/
+ViT/tmp/
+data/.ipynb_checkpoints/
